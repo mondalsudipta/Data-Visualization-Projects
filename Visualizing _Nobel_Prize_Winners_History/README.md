@@ -1,4 +1,4 @@
-This project is a part of DataCamp's "Data Analyst with Python" certification track.
+**This project is a part of DataCamp's "Data Analyst with Python" certification track.**
 
 The following are the project tasks:
 
